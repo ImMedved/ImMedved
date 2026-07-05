@@ -17,8 +17,6 @@ Java, Spring Boot, PostgreSQL, Docker, JavaScript, React, Android, Kotlin, C++, 
 
 ## GitHub statistics
 
-[![Alexander's GitHub stats](https://github-stats-extended.vercel.app/api?username=ImMedved)](https://github.com/stats-organization/github-stats-extended)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ImMedved\&theme=tokyonight\&hide_border=true)
 
 ## Contacts
