@@ -17,7 +17,7 @@ Java, Spring Boot, PostgreSQL, Docker, JavaScript, React, Android, Kotlin, C++, 
 
 ## GitHub statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=ImMedved\&style=flat-square)
+[![Alexander's GitHub stats](https://github-stats-extended.vercel.app/api?username=ImMedved)](https://github.com/stats-organization/github-stats-extended)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ImMedved\&theme=tokyonight\&hide_border=true)
 
