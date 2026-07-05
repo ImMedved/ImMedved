@@ -1,16 +1,29 @@
-## Hi there 👋
+# ImMedved
 
-<!--
-**ImMedved/ImMedved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Java / C++ developer.
+5 years of commercial experience.
+Building web systems, Android applications, and a custom C++ game engine.
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java, Spring Boot, PostgreSQL, Docker, JavaScript, React, Android, Kotlin, C++, CMake, DirectX.
+
+## GitHub statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImMedved\&show_icons=true\&count_private=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMedved\&layout=compact\&langs_count=10\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ImMedved\&theme=tokyonight\&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImMedved\&theme=tokyo-night\&hide_border=true)
+
+## Profile details
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ImMedved\&theme=tokyonight\&no-frame=true\&margin-w=10)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ImMedved\&style=flat-square)
+
+## Contacts
+
+GitHub: [ImMedved](https://github.com/ImMedved)
