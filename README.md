@@ -19,9 +19,9 @@ Java, Spring Boot, PostgreSQL, Docker, JavaScript, React, Android, Kotlin, C++, 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ImMedved\&theme=tokyonight\&hide_border=true)
 
-![Language leaderboard](language-stats/leaderboard_by_weighted.png)
+![Language leaderboard](language-stats/leaderboard_by_lines.png)
 
-![Language distribution](language-stats/donut_by_bytes.png)
+![Language distribution](language-stats/donut_by_weighted.png)
 
 ## Contacts
 
