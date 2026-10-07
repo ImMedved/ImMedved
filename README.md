@@ -15,14 +15,6 @@ Java, Spring Boot, PostgreSQL, Docker, JavaScript, React, Android, Kotlin, C++, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
-## GitHub statistics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ImMedved\&theme=tokyonight\&hide_border=true)
-
-![Language leaderboard](language-stats/leaderboard_by_lines.png)
-
-![Language distribution](language-stats/donut_by_weighted.png)
-
 ## Contacts
 
 GitHub: [ImMedved](https://github.com/ImMedved)
